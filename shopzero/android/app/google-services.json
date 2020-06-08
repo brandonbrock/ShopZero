@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940330211192",
+    "firebase_url": "https://shopzero-4c367.firebaseio.com",
+    "project_id": "shopzero-4c367",
+    "storage_bucket": "shopzero-4c367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940330211192:android:07e90fa005201caf1fda8d",
+        "android_client_info": {
+          "package_name": "com.example.shopzero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940330211192-s30n2df6ove2us0ogng9ucq4riabivn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_viTkEqWuzmLWbcsIsvL-z75CJ9YqQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940330211192-s30n2df6ove2us0ogng9ucq4riabivn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
